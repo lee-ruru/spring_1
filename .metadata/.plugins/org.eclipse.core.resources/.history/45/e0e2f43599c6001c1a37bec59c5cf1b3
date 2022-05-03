@@ -1,0 +1,10 @@
+package com.ict.aop;
+
+public class LogAdvice {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
