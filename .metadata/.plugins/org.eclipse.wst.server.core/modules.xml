@@ -2,5 +2,7 @@
 <modules>
   <module moduleId="org.eclipse.jst.jee.server:SpringBasic" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:SpringBoard" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:security_prj" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:prj_upload" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:prj_rest" serverId="Tomcat v9.0 Server at localhost"/>
 </modules>

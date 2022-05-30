@@ -1,2 +1,0 @@
-127.0.0.1 - - [03/May/2022:09:58:53 +0900] "GET / HTTP/1.1" 404 807
-0:0:0:0:0:0:0:1 - - [03/May/2022:09:58:54 +0900] "GET /controller/WEB-INF/classes/com/ict/service/ReplyServiceImpl.java HTTP/1.1" 404 721

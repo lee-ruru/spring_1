@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="SampleServiceTests" project="prj_aop" tests="2" started="2" failures="0" errors="0" ignored="0">
-  <testsuite name="com.ict.service.SampleServiceTests" time="0.011">
-    <testcase name="testAdd" classname="com.ict.service.SampleServiceTests" time="0.01"/>
-    <testcase name="testClass" classname="com.ict.service.SampleServiceTests" time="0.0"/>
-  </testsuite>
-</testrun>
